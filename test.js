@@ -1,1 +1,4 @@
-javascript:alert(1)
+function show_alert()
+{
+    alert("hihi");
+}
